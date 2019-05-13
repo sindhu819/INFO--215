@@ -1,3 +1,4 @@
 # INFO-215
-Basic plotting in Matplotlib Library
+Basic plotting using  Matplotlib and Seaborn Libraries
 This Document is useful for plotting subplots, labelling, figure size etc.
+
