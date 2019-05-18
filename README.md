@@ -37,4 +37,7 @@ Various Sections
 * https://github.com/rasbt/matplotlib-gallery
 * https://pythonspot.com/matplotlib-bar-chart/
 * https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html
+* https://datavizchecklist.stephanieevergreen.com/assets/DataVizChecklist_Feb2018.pdf
+* https://www.tutorialspoint.com/python/python_matplotlib.htm
+
 
