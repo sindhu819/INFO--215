@@ -3,3 +3,6 @@
 
 
                              
+## References 
+
+* https://pythonspot.com/matplotlib-bar-chart/
