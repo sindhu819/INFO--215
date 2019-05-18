@@ -2,7 +2,7 @@
 
 This Repository consists of collection of Matplotlib plots in Ipython Notebook that is needed for Data Visualization
 
-Variuous Sections
+Various Sections
 
 * Subplots, Colors,Axes, Markers
 * Formatting Legends & Gridlines
