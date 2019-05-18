@@ -6,3 +6,5 @@
 ## References 
 * https://github.com/rasbt/matplotlib-gallery
 * https://pythonspot.com/matplotlib-bar-chart/
+* https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html
+
