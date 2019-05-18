@@ -13,7 +13,7 @@ Variuous Sections
 * Box plot & Violin plots
 * Heat Maps
 * Matplotlib basics
-* Chart Checklist
+* Data Visualization Checklist
 
                              
 
