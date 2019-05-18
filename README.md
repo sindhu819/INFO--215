@@ -4,5 +4,5 @@
 
                              
 ## References 
-
+* https://github.com/rasbt/matplotlib-gallery
 * https://pythonspot.com/matplotlib-bar-chart/
