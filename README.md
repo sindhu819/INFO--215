@@ -15,19 +15,10 @@ Various Sections
 * Matplotlib basics
 * Data Visualization Checklist
 
+
+
                              
-
-
-
-
-
-
-
-
-
-
-
-
+For more information check [Matplotlib](https://matplotlib.org) and [seaborn libraries](https://seaborn.pydata.org)
 
 
 
